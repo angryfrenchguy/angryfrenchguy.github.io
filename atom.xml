@@ -6,8 +6,24 @@ layout: null
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>{{ site.title }}</title>
+    
+<!--Changé les liens pour les linkposts. Pas certain de comment tester.-->
+    
+<!--
  <link href="{{ site.url }}{{ site.baseurl }}/atom.xml" rel="self"/>
  <link href="{{ site.url }}{{ site.baseurl }}/"/>
+-->
+    
+{% if post.external-url %}
+  <link href="{{ post.external-url }}"/>
+  <link href="{{ site.url }}{{ site.baseurl }}/atom.xml" rel="self"/>
+{% else %}
+  <link href="{{ site.url }}{{ site.baseurl }}/atom.xml" rel="self"/>
+  <link href="{{ site.url }}{{ site.baseurl }}/"/>
+{% endif %}
+    
+<!--Fin des modifications linkposts-->
+    
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.url }}</id>
  <author>
