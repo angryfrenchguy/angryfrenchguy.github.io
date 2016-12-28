@@ -5,7 +5,7 @@ permalink:           pretty
 title:               Anglemonde
 tagline:             Observatoire de l'anglais
 url:                 http://getpoole.com
-paginate:            1
+paginate:            10
 baseurl:             ""
 
 # Assets

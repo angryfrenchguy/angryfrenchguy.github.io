@@ -1,14 +1,14 @@
 .post {
 
   &-title {
-    margin-bottom: 0rem;
+    margin-bottom: .5rem;
   }
 
   &-date {
     margin-bottom: .5rem;
-    color: $base-lighten-color;
-    font-size: .75rem;
-    text-transform: uppercase;
+//    color: $base-lighten-color;
+//    font-size: .75rem;
+//    text-transform: uppercase;
   }
 
   &-tag {
@@ -18,13 +18,17 @@
       margin: 4px;
       margin-left: 0px;
       color: #fff;
-      background-color: $base-lighten-color;
+      background-color: $tag-color;
       text-decoration: none;
-			border-radius: 3px;
+      border-radius: 3px;
     }
+      
+    }
+    
     ul {
       padding-left: 0px;
-    }    
+    } 
+      
     li {
       font-size: .75rem;
       display: inline;
@@ -33,7 +37,33 @@
     }
     span {
       float: left;
-			padding: .5px 5px;
+      padding: 1px 5px;
     }
-    }
+  }
+
+//Tag Index
+
+.tag-index {
+    font-size:.75rem;
+    display:inline;
+    list-style-type:none;
+    text-transform:lowercase
+}
+.tag-index a {
+    display:inline-block;
+    margin:1px 4px;
+    color:#fff;
+    background-color:$tag-color;
+    border-radius:3px
+}
+.tag-index a span {
+    float:left;
+    padding:.5px 5px
+}
+.tag-index a .count {
+    background-color:#52A6D8;
+    border-radius:0 3px 3px 0
+}
+.tag-index a:hover {
+    background-color:$tag-color;
 }

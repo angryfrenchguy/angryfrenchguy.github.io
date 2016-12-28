@@ -21,6 +21,8 @@ $body-color: #515151;
 $body-bg: #fff;
 $link-color: $blue;
 
+$tag-color: #3093cc;
+    
 $border-color: #e5e5e5;
 
 $large-breakpoint: 38em;
@@ -29,5 +31,5 @@ $large-font-size: 20px;
 $code-font-family: Menlo, Monaco, "Courier New", monospace;
 $code-color: #bf616a;
 
-$base-color: #000000;
-$base-lighten-color: lighten($base-color, 50);
+//$base-color: #000000;
+//$base-lighten-color: lighten($base-color, 50);

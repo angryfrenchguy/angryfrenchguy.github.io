@@ -5,6 +5,8 @@ tags: [anglemonde]
 permalink: /:year/:month/:day/:title/
 ---
 
+![](http://www.oneangryman.com/ken/wp-content/uploads/2012/11/FOX-and-Friends-First-Co-Hosts-Legs-600x450.jpg)
+
 Les détaillants américains sont les meilleurs de tous les détaillants anglophones quand vient le temps d'adapter leurs sites à des marchés non-anglos, mais seulement quand ces marchés sont assez gros. 
 
 Selon [une étude](https://www.practicology.com/files/7114/8112/1086/Practicology_Localization_Report_2016_DOWNLOAD.pdf) réalisée par des Practicology, [eshopworld](http://ecommercenews.eu/eshopworld-is-irelands-fastest-growing-tech-company/) et TranslateMedia, les sites des détaillants Américains sont mieux adaptés et traduits que ceux des Anglais et Australiens, du moins dans les gros marchés lucratifs comme le Japon et le Mexique. 
