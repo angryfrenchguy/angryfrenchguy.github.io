@@ -1,5 +1,16 @@
 .post {
 
+  &-title {
+    margin-bottom: 0rem;
+  }
+
+  &-date {
+    margin-bottom: .5rem;
+    color: $base-lighten-color;
+    font-size: .75rem;
+    text-transform: uppercase;
+  }
+
   &-tag {
     margin-bottom: 1rem;
     .tag {
@@ -11,6 +22,9 @@
       text-decoration: none;
 			border-radius: 3px;
     }
+    ul {
+      padding-left: 0px;
+    }    
     li {
       font-size: .75rem;
       display: inline;
@@ -21,4 +35,5 @@
       float: left;
 			padding: .5px 5px;
     }
-  }
+    }
+}
