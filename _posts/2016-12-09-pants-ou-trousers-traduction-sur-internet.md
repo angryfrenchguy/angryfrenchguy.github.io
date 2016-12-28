@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Les détaillants américains sont les meilleurs  
 tags: [anglemonde]  
 permalink: /:year/:month/:day/:title/
