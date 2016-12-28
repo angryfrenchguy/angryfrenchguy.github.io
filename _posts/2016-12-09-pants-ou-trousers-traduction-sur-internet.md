@@ -5,7 +5,7 @@ tags: [anglemonde]
 permalink: /:year/:month/:day/:title/
 ---
 
-![](http://www.oneangryman.com/ken/wp-content/uploads/2012/11/FOX-and-Friends-First-Co-Hosts-Legs-600x450.jpg)
+![](http://www.drugrehabadvisor.com/dira/wp-content/uploads/2015/11/bigstock-Justin-Trudeau-24366677.jpg)
 
 Les détaillants américains sont les meilleurs de tous les détaillants anglophones quand vient le temps d'adapter leurs sites à des marchés non-anglos, mais seulement quand ces marchés sont assez gros. 
 
