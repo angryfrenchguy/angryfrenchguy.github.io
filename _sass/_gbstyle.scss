@@ -1,3 +1,5 @@
+//Tags
+
 .post {
 
   &-title {
@@ -6,9 +8,6 @@
 
   &-date {
     margin-bottom: .5rem;
-//    color: $base-lighten-color;
-//    font-size: .75rem;
-//    text-transform: uppercase;
   }
 
   &-tag {
@@ -66,4 +65,24 @@
 }
 .tag-index a:hover {
     background-color:$tag-color;
+}
+
+
+//Dans le même ordre d'idée
+
+
+.post-node .post-date {
+    margin-top: 15px;
+    margin-bottom: 0;
+    padding-bottom: 1px;
+}
+
+.post-node .post-title {
+    margin-bottom: 1px;
+}
+
+.post-node .post-title:hover {
+    color: $blue;
+//    text-decoration: underline;
+    cursor: auto;
 }

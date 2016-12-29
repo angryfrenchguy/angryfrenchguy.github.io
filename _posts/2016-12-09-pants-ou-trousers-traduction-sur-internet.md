@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Les détaillants américains sont les meilleurs  
-tags: [anglemonde]  
+tags: [anglemonde, un, deux, trois, quatre, fuck, shit, tabarnack, sexe, mots, église, fil, de, pensée, Louis, CK, Mexique, Je sais pas, Georges, Baker, panader, majuscule, usted]  
 permalink: /:year/:month/:day/:title/
 ---
 

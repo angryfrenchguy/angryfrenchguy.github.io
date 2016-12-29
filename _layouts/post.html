@@ -24,6 +24,9 @@ layout: default
   {{ content }}
 </article>
 
+<!--Ancien code pour les posts reliés-->
+
+<!--
 {% if site.related_posts != empty %}
 <aside class="related">
   <h3>Dans le même ordre d'idée</h3>
@@ -39,3 +42,27 @@ layout: default
   </ul>
 </aside>
 {% endif %}
+-->
+
+<aside class="related">
+  <h3>Dans le même ordre d'idée</h3>
+{% assign n_posts = 0 %}
+{% for post in site.posts %}
+    {%if post.id == page.id %}{% continue %}{% endif %}
+    {% for this_tag in page.tags %}
+        {% if post.tags contains this_tag%}
+{% if n_posts == 0 %}{{include.head}}
+    
+    <ul class="related-posts">{% endif %}
+        
+            <li>{% include post_node.liquid post=post element="h4" %}</li>
+            
+        {% assign n_posts = n_posts | plus: 1 %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+    {%if n_posts > 5 %}{% break %}{% endif %}
+{% endfor %}
+{% if n_posts > 0 %}
+    </ul>{% endif %}
+</aside>
