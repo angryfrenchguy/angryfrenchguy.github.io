@@ -30,13 +30,14 @@ permalink: /tags/
   {% capture this_tag %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
 	<article>
 
-	<div class="tag-title" id="{{ this_tag }}">
+	<h4 class="tag-title" id="{{ this_tag }}">
     {{ this_tag }}
-  </div>
+  </h4>
 		<ul>
     {% for post in site.tags[this_tag] %}
     {% if post.title != null %}
-      <li class="tag-post">
+          <li class="tag-post">
+            <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{% include translated_date.html date=post.date format="%-d %B %Y" lang="fr" %} : 
         {% if post.link %}
         <a href="{{ post.link }}">
         {% else %}
@@ -44,6 +45,8 @@ permalink: /tags/
         {% endif %}  
           <span class="tag-post-title">{{ post.title }}</span>
         </a>
+            </time>
+            
       </li>
     {% endif %}
     {% endfor %}
