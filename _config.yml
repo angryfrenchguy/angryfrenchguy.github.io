@@ -6,7 +6,7 @@ title:               Anglemonde
 tagline:             Observatoire de l'anglais
 url:                 http://angryfrenchguy.github.io
 paginate:            10
-baseurl:             "http://angryfrenchguy.github.io"
+baseurl:             ""
 
 # Assets
 #
