@@ -71,17 +71,17 @@
 //Dans le même ordre d'idée
 
 
-.post-node .post-date {
+.module-post .post-date {
     margin-top: 15px;
-    margin-bottom: 0;
-    padding-bottom: 1px;
+    margin-bottom: -3px;
+    padding-bottom: 0px;
 }
 
-.post-node .post-title {
+.module-post .post-title {
     margin-bottom: 1px;
 }
 
-.post-node .post-title:hover {
+.module-post .post-title:hover {
     color: $blue;
 //    text-decoration: underline;
     cursor: auto;
