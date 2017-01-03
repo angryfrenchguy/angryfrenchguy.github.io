@@ -114,16 +114,29 @@ img {
 }
 
 
-//Blockquotes
+////Blockquotes
+//
+//blockquote blockquote {
+//    border: none;
+//    padding: 0px;
+////    margin: -20px 0 0 0;
+//    margin: -1rem 0 0 0;
+//}
+//
+//blockquote p > a {
+//    font-size: .75rem;
+//    border: none;
+//}
 
-blockquote blockquote {
-    border: none;
-    padding: 0px;
+.quotesource {
+//    border: none;
+//    padding: 0px;
 //    margin: -20px 0 0 0;
-    margin: -1rem 0 0 0;
+    margin: -1.5rem 0 0 0;
 }
 
-blockquote p > a {
+.quotesource p {
     font-size: .75rem;
-    border: none;
+//    border: none;
 }
+
