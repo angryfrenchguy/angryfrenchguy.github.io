@@ -1,6 +1,9 @@
 ---
 title: L'Andhra Pradesh Oblige les Écoles à Enseigner en Anglais, que les Profs Sachent Parler la Langue, ou Pas
-tags: inde "langue d'enseignement" "anglais magique"
+tags: 
+- inde 
+- langue d'enseignement
+- anglais magique
 external-url: http://www.thehindu.com/news/cities/Vijayawada/Municipal-schools-to-switch-to-English-medium/article16979932.ece
 ---
 
