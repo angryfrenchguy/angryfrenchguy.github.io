@@ -10,17 +10,11 @@ Boycotter l'anglais pour protester contre Trump ?
 
 De nombreux universitaires israéliens, plus souvent qu'autrement éduqués dans cette langue, avaient choisi d'abandonner l'allemand dans les années 1930 pour protester contre le régime nazi, rappelle Ofri Ilany dans Haaretz: 
 
-> In the pre-state period, more than half the university’s professors had been trained in German and published most of their articles in that language. Yet, German studies were halted at the university in 1934, during the early stages of Nazi rule. The Jerusalem-based scholars parted peacefully with German, which was not taught officially again at the Hebrew University until the 1950s.
-
->> [The case against English, the language of American imperialism - Opinion - Israel News | Haaretz.com](http://www.haaretz.com/opinion/.premium-1.767662?=&utm_source=dlvr.it&utm_medium=twitter&ts=_1485792257820)
-{: .quotesource}
+> In the pre-state period, more than half the university’s professors had been trained in German and published most of their articles in that language. Yet, German studies were halted at the university in 1934, during the early stages of Nazi rule. The Jerusalem-based scholars parted peacefully with German, which was not taught officially again at the Hebrew University until the 1950s. [The case against English, the language of American imperialism - Opinion - Israel News | Haaretz.com](http://www.haaretz.com/opinion/.premium-1.767662?=&utm_source=dlvr.it&utm_medium=twitter&ts=_1485792257820)
 
 De l'avis d'Ilany, la volonté de Trump de redessiner l'ordre politique international autour de la "relation spéciale" des États-Unis avec les pays anglo-saxons au détriment des "autres" justifie un mouvement équivalent.
 
-> Trump’s inaugural speech was a declaration of war by an empire against its subjects. How should one fight? By rising up against the English language.
-
->> [Ofri Ilany - Israeli News | Haaretz Daily Newspaper](http://www.haaretz.com/misc/writers/ofri-ilany-1.518)
-{: .quotesource}
+> Trump’s inaugural speech was a declaration of war by an empire against its subjects. How should one fight? By rising up against the English language. [Ofri Ilany - Israeli News | Haaretz Daily Newspaper](http://www.haaretz.com/misc/writers/ofri-ilany-1.518)
 
 Comme le raconte Micheal D. Gordin dans [How Science Was Done Before And After Global English](http://press.uchicago.edu/ucp/books/book/chicago/S/bo14504917.html), ce qui a achevé l'allemand comme langue internationale de la science c'est une combinaison de l'abandon de l'allemand par des académies qui voulaient se dissocier du régime nazi et des collaborateurs *et* l'exode des chercheurs vers d'autres pays, notamment vers les États-Unis.
 
