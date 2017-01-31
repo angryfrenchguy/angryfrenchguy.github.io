@@ -24,7 +24,7 @@ De l'avis d'Ilany, la volonté de Trump de redessiner l'ordre politique internat
 
 Comme le raconte Micheal D. Gordin dans [How Science Was Done Before And After Global English](http://press.uchicago.edu/ucp/books/book/chicago/S/bo14504917.html), ce qui a achevé l'allemand comme langue internationale de la science c'est une combinaison de l'abandon de l'allemand par des académies qui voulaient se dissocier du régime nazi et des collaborateurs *et* l'exode des chercheurs vers d'autres pays, notamment vers les États-Unis.
 
-En ce sens-là, la décision de Donald Trump de [fermer la porte des USA aux ressortissants de sept pays musulmans](http://www.lemonde.fr/donald-trump/article/2017/01/30/manifestations-indignations-reactions-le-point-sur-le-decret-anti-immigration-de-trump_5071224_4853715.html) pourrait rediriger les étudiants de ses pays vers d'autres centres comme l'Allemagne — ironie — qui se sont montrés nettement plus ouverts envers les réfugiés du Moyen-Orient. 
+En ce sens-là, la décision de Donald Trump de [fermer la porte des USA aux ressortissants de sept pays musulmans](http://www.lemonde.fr/donald-trump/article/2017/01/30/manifestations-indignations-reactions-le-point-sur-le-decret-anti-immigration-de-trump_5071224_4853715.html) pourrait rediriger les étudiants de ces pays vers d'autres centres comme l'Allemagne — ironie — qui se sont montrés nettement plus ouverts envers les réfugiés du Moyen-Orient. 
 
 Cela dit, les chercheurs de la première moitié du 20e siècle pouvaient relativement facilement passer au français ou à l'anglais, deux langues qui étaient largement lues dans le monde érudit de l'époque. Cette alternative n'existe plus. 
 
